@@ -1,0 +1,16 @@
+2026/04/21-13:00:50.811 8ae8 Reusing MANIFEST D:\Epic Games\UE_5.7\Works\MAP\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/21-13:00:50.818 8ae8 Recovering log #26
+2026/04/21-13:00:50.818 8ae8 Level-0 table #29: started
+2026/04/21-13:00:50.836 8ae8 Level-0 table #29: 79974 bytes OK
+2026/04/21-13:00:50.837 8ae8 Recovering log #28
+2026/04/21-13:00:50.854 8ae8 Reusing old log D:\Epic Games\UE_5.7\Works\MAP\Saved\webcache_6613\Default\Local Storage\leveldb/000028.log 
+2026/04/21-13:00:50.856 8ae8 Delete type=0 #26
+2026/04/21-13:00:50.858 8950 Compacting 4@0 + 1@1 files
+2026/04/21-13:00:50.878 8950 Generated table #30@0: 8 keys, 29098 bytes
+2026/04/21-13:00:50.878 8950 Compacted 4@0 + 1@1 files => 29098 bytes
+2026/04/21-13:00:50.878 8950 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/21-13:00:50.881 8950 Delete type=2 #18
+2026/04/21-13:00:50.881 8950 Delete type=2 #21
+2026/04/21-13:00:50.881 8950 Delete type=2 #24
+2026/04/21-13:00:50.881 8950 Delete type=2 #27
+2026/04/21-13:00:50.881 8950 Delete type=2 #29

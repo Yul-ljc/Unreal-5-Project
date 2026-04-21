@@ -1,0 +1,7 @@
+[33576:33580:0421/192701.128:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[33576:33580:0421/192701.331:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[33576:33580:0421/192707.604:ERROR:device_event_log_impl.cc(196)] [19:27:07.535] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 找不到元素。 (0x490)
+[16304:21556:0421/192709.725:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D699CB09C6D1B4ED9A87CA49730DE0A4 will be ignored
+[3136:21184:0421/192717.727:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-F39B614A70840664E214A81F86B20155 will be ignored
+[4008:23032:0421/192720.831:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 3
+[33576:33580:0421/194311.820:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
